@@ -76,6 +76,19 @@ This project focuses on **clarity**, **maintainability**, and **best practices**
 - Child components emit events via callback functions
 - Parent updates state and React re-renders the UI
 
+## Basic Commands
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+```bash
+npm run dev
+```
+
 **Design principle followed:**
 
 > Events go up, data comes down
