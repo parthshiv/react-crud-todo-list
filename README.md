@@ -88,6 +88,7 @@ npm install
 ```bash
 npm run dev
 ```
+---
 
 **Design principle followed:**
 
